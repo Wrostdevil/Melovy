@@ -1,0 +1,6 @@
+{
+  "name": "Melovy",
+  "description": "Universal music player with real audio playback, local file imports, streaming, interactive 3D gramophone, genre artwork theming, and vibe exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
