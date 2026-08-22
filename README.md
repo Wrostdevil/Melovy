@@ -637,6 +637,13 @@ The goal:
 > **A forgotten royal listening room redesigned for the modern web.**
 
 ------------------------------------------------------------------------
+<p align="center">
+  <img 
+    src="bgimage.png" 
+    alt="Melovy Analog Cassette Stage"
+    width="100%"
+  />
+</p>
 
 # 🤝 Contributing
 
