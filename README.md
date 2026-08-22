@@ -645,6 +645,31 @@ The goal:
   />
 </p>
 
+<p align="center">
+  <img 
+    src="homepage.png" 
+    alt="Melovy Analog Cassette Stage"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="spotify_connect.png" 
+    alt="Melovy Analog Cassette Stage"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="taperecorder.png" 
+    alt="Melovy Analog Cassette Stage"
+    width="100%"
+  />
+</p>
+
+
 # 🤝 Contributing
 
 Contributions, ideas, visual experiments, UI improvements, and feature
