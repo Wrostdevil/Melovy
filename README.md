@@ -701,7 +701,7 @@ if you intend to release Melovy under MIT.
 
 ## Shakti
 
-Computer Science & Engineering\
+Information Technology at NIT JALANDHAR\
 AI/ML · Full-Stack Development · Creative Technology
 
 ------------------------------------------------------------------------
